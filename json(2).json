@@ -1,0 +1,92 @@
+{
+  "Folder": " ",
+  "_N_E": [
+    {
+      "name": "diagram-parser/src",
+      "Folder": "yes",
+      "Diagrams": [],
+      "CloudArchitechture": [
+        "Genereated",
+        "CloudArchitechture",
+        "errors.ts",
+        "Index.ts"
+      ],
+      "Entity RelationShip": [
+        "Genereated",
+        "Entity relationship.ts",
+        "Erors.ts",
+        "index.ts",
+        "types.ts"
+      ],
+      "flowChart": [
+        "generated",
+        "Flow.js",
+        "grammer.js",
+        "Errror.js"
+      ]
+    },
+    {
+      "name": "Excalidraw/src/utils",
+      "GraohViz": [
+        "Cloud-ArchitechtureTODoT",
+        "Entity Relationship TODOT",
+        "FlowChartTODOT",
+        "GraphVizTODTO"
+      ]
+    },
+    {
+      "name": "Node_MOdules",
+      "Folder": "is-Observable",
+      "Lodash": [
+        "DataVew.js",
+        "Hash.js",
+        "map.js",
+        "MapCache.js",
+        "set.js",
+        "symbol.js",
+        "arraymap.js",
+        "arraypush.js",
+        "_arrayLikeKeys.js"
+      ],
+      "@hpcc-js/wasm/dist": [],
+      "lodash.uniqueBy": [
+        "index.js"
+      ],
+      "nanoid": [
+        "index.prod.js"
+      ],
+      "Process": [
+        "browser.js"
+      ],
+      "threads": [
+        "dist.js",
+        "worker.js"
+      ],
+      "next/dist/compiled": [
+        "runtime.js"
+      ]
+    },
+    {
+      "name": "Shared/modules/diagram-parser",
+      "TYpes.ts": [
+        "Immortality"
+      ]
+    },
+    {
+      "name": "Webpack",
+      "Folder": "Bootstrap",
+      "Runtime": [
+        "chunk loaded",
+        "compact getDefault",
+        "define property getters",
+        "ensure chunk",
+        "Get Javascript chunk fiil name",
+        "get mini css chunk file name",
+        "global",
+        "has ownProperty shorthand",
+        "NOde Module decirator",
+        "public- Path"
+      ]
+    }
+  ]
+}
